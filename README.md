@@ -18,13 +18,13 @@
 
 ### プログラム
 #### 7月3日(木)
-9：20～10：50 「[ゲノムデータベース、次世代シーケンスデータベースの使い方](https://github.com/AJACS-training/AJACS46/blob/master/01_kawano/)」
+9：20～10：50 「[ゲノムデータベース、次世代シーケンスデータベースの使い方](https://github.com/AJACS-training/AJACS46/blob/master/01_kawano/)」  
 河野 信   
 （情報・システム研究機構 ライフサイエンス統合データベースセンター／科学技術振興機構 バイオサイエンスデータベースセンター)  
 
 
-11：00～12：30 「[NBDCとNBDCが提供するサービス](https://github.com/AJACS-training/AJACS46/blob/master/02_minowa/)」  
-箕輪 真理
+11：00～12：30 「[NBDCとNBDCが提供するサービス](https://github.com/AJACS-training/AJACS46/blob/master/02_minowa/)」  
+箕輪 真理  
 （科学技術振興機構 バイオサイエンスデータベースセンター／情報・システム研究機構 ライフサイエンス統合データベースセンター）
 
 
@@ -33,6 +33,6 @@
 (情報・システム研究機構 ライフサイエンス統合データベースセンター)
 
 
-15：45〜17：45 「[次世代シーケンスデータの視覚化](https://github.com/AJACS-training/AJACS46/blob/master/04_sato/)」    
-佐藤 哲也 
+15：45〜17：45 「[次世代シーケンスデータの視覚化](https://github.com/AJACS-training/AJACS46/blob/master/04_sato/)」  
+佐藤 哲也  
 （九州大学 生体防御医学研究所附属生体多階層システム研究センター)  
