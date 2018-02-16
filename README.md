@@ -1,4 +1,4 @@
-# AJACS46（AJACS出島）
+# AJACS46(AJACS出島)
 
 ### 公式ウェブページ
 [統合データベース講習会:AJACS出島](http://events.biosciencedbc.jp/training/ajacs46)  
