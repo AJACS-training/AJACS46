@@ -24,7 +24,7 @@
 
 
 11：00～12：30 「[NBDCとNBDCが提供するサービス](https://github.com/AJACS-training/AJACS46/blob/master/02_minowa/)」  
-箕輪 真理  
+箕輪 真理
 （科学技術振興機構 バイオサイエンスデータベースセンター／情報・システム研究機構 ライフサイエンス統合データベースセンター）
 
 
