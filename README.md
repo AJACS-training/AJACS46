@@ -28,7 +28,7 @@
 （科学技術振興機構 バイオサイエンスデータベースセンター／情報・システム研究機構 ライフサイエンス統合データベースセンター）
 
 
-13：30～15：30 「[遺伝子発現DBをはじめとした公共オミックスDBの使い方](https://github.com/AJACS-training/AJACS46/blob/master/03_tokimatsu/)」  
+13：30～15：30 「[化合物データベース・パスウェイデータベースの紹介](https://github.com/AJACS-training/AJACS46/blob/master/03_tokimatsu/)」  
 時松 敏明  
 (情報・システム研究機構 ライフサイエンス統合データベースセンター)
 
